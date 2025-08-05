@@ -89,13 +89,6 @@ NOT: Backend çalışır durumda olmalıdır. API_BASE: https://localhost:7215
 - Konsolda başarılı/başarısız istekler gösterilir.
 
 
-📸 Ekran Görüntüsü
-
-Ekran görüntüsü eklemek istersen:
-- README dosyası ile aynı klasöre “ekran-goruntusu.png” koy
-- GitHub üzerinde otomatik görüntülenir
-
-
 🧑‍💻 Geliştirici
 
 Bu proje, Başarsoft Yaz Stajı kapsamında ben yani **Sema Gül Çelik** tarafından backend ve frontend olarak geliştirilmiştir.

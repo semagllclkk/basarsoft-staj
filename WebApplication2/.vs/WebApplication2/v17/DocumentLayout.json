@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DDCE5-63FA-A520-F5E2-48BAD5DFA536}|WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DDCE5-63FA-A520-F5E2-48BAD5DFA536}|WebApplication2.csproj|solutionrelative:unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C69DDCE5-63FA-A520-F5E2-48BAD5DFA536}|WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C69DDCE5-63FA-A520-F5E2-48BAD5DFA536}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:39:58.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:39:56.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

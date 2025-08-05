@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CoordinateOutOfRange" xml:space="preserve">
+    <value>Koordinat değeri geçerli aralıkta değil.</value>
+    <comment>Koordinat değeri geçerli aralıkta değil.</comment>
+  </data>
+  <data name="GenericError" xml:space="preserve">
+    <value>Bir hata oluştu.</value>
+    <comment>Bir hata oluştu.</comment>
+  </data>
+  <data name="IntersectionControlCompleted" xml:space="preserve">
+    <value>Intersection kontrolü tamamlandı</value>
+  </data>
+  <data name="InvalidCoordinates" xml:space="preserve">
+    <value>Geçersiz koordinat değerleri tespit edildi.</value>
+    <comment>Geçersiz koordinat değerleri tespit edildi.</comment>
+  </data>
+  <data name="InvalidLineFormat" xml:space="preserve">
+    <value>Geçersiz çizgi geometrisi</value>
+  </data>
+  <data name="InvalidPolygonFormat" xml:space="preserve">
+    <value>Geçersiz poligon geometrisi</value>
+  </data>
+  <data name="InvalidWktFormat" xml:space="preserve">
+    <value>Geometrik veri okunamadı. WKT formatını kontrol edin.</value>
+    <comment>Geometrik veri okunamadı. WKT formatını kontrol edin.</comment>
+  </data>
+  <data name="LatitudeOutOfRange" xml:space="preserve">
+    <value>Enlem değeri -90 ile 90 arasında olmalıdır.</value>
+    <comment>Enlem değeri -90 ile 90 arasında olmalıdır.</comment>
+  </data>
+  <data name="LineAdded" xml:space="preserve">
+    <value>Çizgi başarılı bir şekilde eklendi</value>
+  </data>
+  <data name="LineCouldNotBeDeleted" xml:space="preserve">
+    <value>Çizgi silinemedi</value>
+  </data>
+  <data name="LineDeleted" xml:space="preserve">
+    <value>Çizgi başarılı bir şekilde silindi.</value>
+  </data>
+  <data name="LineFound" xml:space="preserve">
+    <value>Çizgi başarılı bir şekilde bulundu.</value>
+  </data>
+  <data name="LineNotFound" xml:space="preserve">
+    <value>Çizgi bulunamadı</value>
+  </data>
+  <data name="LineNotFoundForDelete" xml:space="preserve">
+    <value>Silinecek çizgi bulunamadı</value>
+  </data>
+  <data name="LineNotFoundForUpdate" xml:space="preserve">
+    <value>Güncellenecek çizgi bulunamadı</value>
+  </data>
+  <data name="LineUpdated" xml:space="preserve">
+    <value>Çizgi başarılı bir şekilde güncellendi.</value>
+  </data>
+  <data name="LongitudeOutOfRange" xml:space="preserve">
+    <value>Boylam değeri -180 ile 180 arasında olmalıdır.</value>
+    <comment>Boylam değeri -180 ile 180 arasında olmalıdır.</comment>
+  </data>
+  <data name="NameCannotStartsWithGh" xml:space="preserve">
+    <value>Şehir adı 'ğ' harfiyle başlayamaz.</value>
+    <comment>Şehir adı 'ğ' harfiyle başlayamaz.</comment>
+  </data>
+  <data name="NameMustStartWithUppercase" xml:space="preserve">
+    <value>Şehir adı büyük harfle başlamalıdır.</value>
+    <comment>Şehir adı büyük harfle başlamalıdır.</comment>
+  </data>
+  <data name="NameRequired" xml:space="preserve">
+    <value>Şehir adı boş bırakılamaz.</value>
+    <comment>Şehir adı boş bırakılamaz.</comment>
+  </data>
+  <data name="PointAdded" xml:space="preserve">
+    <value>Nokta başarıyla eklendi.</value>
+    <comment>Nokta başarıyla eklendi.</comment>
+  </data>
+  <data name="PointCouldNotBeDeleted" xml:space="preserve">
+    <value>Nokta silinemedi.</value>
+    <comment>Nokta silinemedi.</comment>
+  </data>
+  <data name="PointDeleted" xml:space="preserve">
+    <value>Nokta başarılı bir şekilde silindi.</value>
+    <comment>Nokta başarılı bir şekilde silindi.</comment>
+  </data>
+  <data name="PointFound" xml:space="preserve">
+    <value>Nokta başarılı bir şekilde bulundu.</value>
+    <comment>Nokta başarılı bir şekilde bulundu.</comment>
+  </data>
+  <data name="PointNotFound" xml:space="preserve">
+    <value>Nokta bulunamadı.</value>
+    <comment>Nokta bulunamadı.</comment>
+  </data>
+  <data name="PointNotFoundForDelete" xml:space="preserve">
+    <value>Silinecek nokta bulunamadı.</value>
+    <comment>Silinecek nokta bulunamadı.</comment>
+  </data>
+  <data name="PointNotFoundForUpdate" xml:space="preserve">
+    <value>Güncellenecek nokta bulunamadı.</value>
+    <comment>Güncellenecek nokta bulunamadı.</comment>
+  </data>
+  <data name="PointUpdated" xml:space="preserve">
+    <value>Nokta başarılı bir şekilde güncellendi.</value>
+    <comment>Nokta başarılı bir şekilde güncellendi.</comment>
+  </data>
+  <data name="PolygonAdded" xml:space="preserve">
+    <value>Poligon başarılı bir şekilde eklendi.</value>
+  </data>
+  <data name="PolygonCouldNotBeDeleted" xml:space="preserve">
+    <value>Poligon silinemedi.</value>
+    <comment>Poligon silinemedi.</comment>
+  </data>
+  <data name="PolygonDeleted" xml:space="preserve">
+    <value>Poligon başarılı bir şekilde silindi.</value>
+  </data>
+  <data name="PolygonFound" xml:space="preserve">
+    <value>Poligon başarılı bir şekilde bulundu.</value>
+  </data>
+  <data name="PolygonNotFound" xml:space="preserve">
+    <value>Poligon bulunamadı.</value>
+  </data>
+  <data name="PolygonNotFoundForDelete" xml:space="preserve">
+    <value>Silinecek poligon bulunamadı</value>
+  </data>
+  <data name="PolygonNotFoundForUpdate" xml:space="preserve">
+    <value>Güncellenecek poligon bulunamadı</value>
+  </data>
+  <data name="PolygonUpdated" xml:space="preserve">
+    <value>Poligon başarılı bir şekilde güncellendi.</value>
+    <comment>Poligon başarılı bir şekilde güncellendi.</comment>
+  </data>
+  <data name="SearchNoResults" xml:space="preserve">
+    <value>Arama kriterine uygun nokta bulunamadı</value>
+  </data>
+  <data name="SearchResultsFound" xml:space="preserve">
+    <value>Arama kriterine uygun {0} nokta bulundu</value>
+  </data>
+  <data name="SearchTermCannotBeEmpty" xml:space="preserve">
+    <value>Arama çubuğu boş olamaz</value>
+  </data>
+</root>

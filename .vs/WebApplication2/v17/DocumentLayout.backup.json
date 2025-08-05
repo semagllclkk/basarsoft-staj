@@ -1,0 +1,589 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\validations\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\responces\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\responces\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\resources\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\resources\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\pointdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\dtos\\linedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\linedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\controllers\\linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\models\\intersectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\intersectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\pointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\lineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\lineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\ilineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\ilineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\ipointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\ipolygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\ipolygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\linerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\ilinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\ilinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\services\\polygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\polygonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\polygonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\polygonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\pointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\pointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\ipolygonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\ipolygonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\ipointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\ipointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\models\\polygona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\polygona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\models\\pointa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\pointa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\models\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\migrations\\20250704112515_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20250704112515_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\dtos\\polygondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\dtos\\polygondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\controllers\\polygoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\polygoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|c:\\users\\thinkpad\\onedrive - pamukkale university\\masa\u00FCst\u00FC\\ba\u015Farsoft staj\\webapplication2\\migrations\\20250802164156_addnullabletypetogeometries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C516EF0-81FE-4F98-A1B1-9DA15A9169BD}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\migrations\\20250802164156_addnullabletypetogeometries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\PointService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\PointService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\PointService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\PointService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:05:24.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntersectionResult.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\IntersectionResult.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\IntersectionResult.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\IntersectionResult.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\IntersectionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:00:22.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LineController.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\LineController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\LineController.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\LineController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\LineController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:57:20.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\LineDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\LineDTO.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\LineDTO.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\LineDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:17:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PointDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\PointDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\PointDTO.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\PointDTO.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\PointDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:17:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Resources\\Resource.resx",
+              "RelativeDocumentMoniker": "WebApplication2\\Resources\\Resource.resx",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Resources\\Resource.resx",
+              "RelativeToolTip": "WebApplication2\\Resources\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-14T10:09:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Responces\\Response.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Responces\\Response.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Responces\\Response.cs",
+              "RelativeToolTip": "WebApplication2\\Responces\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:12:16.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Validations\\Validation.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Validations\\Validation.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Validations\\Validation.cs",
+              "RelativeToolTip": "WebApplication2\\Validations\\Validation.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowMkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:06:41.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:54:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LineService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\LineService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\LineService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\LineService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\LineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:51:38.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPolygonService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\IPolygonService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\IPolygonService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\IPolygonService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\IPolygonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:03:37.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPointService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\IPointService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\IPointService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\IPointService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\IPointService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:55:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILineService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\ILineService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\ILineService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\ILineService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\ILineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:51:28.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\LineRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\LineRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\LineRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\LineRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:55:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\ILineRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\ILineRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\ILineRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\ILineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:20:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PolygonService.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\PolygonService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\PolygonService.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Services\\PolygonService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\PolygonService.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAIwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:59:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PolygonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\PolygonRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\PolygonRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\PolygonRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\PolygonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:59:05.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\PointRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\PointRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\PointRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\PointRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvzoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:19:55.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPolygonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IPolygonRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\IPolygonRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IPolygonRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\IPolygonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:58:02.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:24:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebApplication2\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T09:53:46.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IPointRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\IPointRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IPointRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\IPointRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:57:04.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:11:56.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "WebApplication2\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:11:52.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:11:47.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250704112515_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250704112515_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250704112515_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250704112515_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250704112515_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:30:43.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:17:50.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PolygonController.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\PolygonController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PolygonController.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\PolygonController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PolygonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:01:22.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LineA.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\LineA.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\LineA.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\LineA.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\LineA.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:10:33.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PointA.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\PointA.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\PointA.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\PointA.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\PointA.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:19:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PolygonA.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\PolygonA.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\PolygonA.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Models\\PolygonA.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\PolygonA.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:10:45.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\PointController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PointController.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Controllers\\PointController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PointController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:44:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PolygonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\PolygonDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Dtos\\PolygonDTO.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Dtos\\PolygonDTO.cs",
+              "RelativeToolTip": "WebApplication2\\Dtos\\PolygonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:17:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250802164156_AddNullableTypeToGeometries.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250802164156_AddNullableTypeToGeometries.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250802164156_AddNullableTypeToGeometries.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250802164156_AddNullableTypeToGeometries.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250802164156_AddNullableTypeToGeometries.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:41:56.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250802163717_AddTypeToGeometries.cs",
+              "DocumentMoniker": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs",
+              "ToolTip": "C:\\Users\\thinkpad\\OneDrive - Pamukkale University\\Masa\u00FCst\u00FC\\ba\u015Farsoft staj\\WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250802163717_AddTypeToGeometries.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:37:17.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
